@@ -69,7 +69,6 @@ I'm interested in software development, problem-solving, and building useful pro
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub- shashank--cpp-181717?style=for-the-badge&logo=github)](https://github.com/shashank-cpp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shashank-pal-950bb5317/)
 
 </div>
